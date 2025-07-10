@@ -40,9 +40,8 @@ Java 17+
 
 Update `config.properties` in `src/test/resources` with your GoRest credentials:
 
-properties
-base_url=https://gorest.co.in/public/v2
-token=your_bearer_token_here
+- base_url=https://gorest.co.in/public/v2
+- token=your_bearer_token_here
 
 ---
 
@@ -54,19 +53,16 @@ Using Test Runner (IDE):
 ---
 
 ## 📈 Future Enhancements
-Allure or Extent Report Integration
-
-Cucumber hooks 
-
-Complex nested JSON payload handling using POJOs
-
-Pagination, chaining, and validation enhancements
+ - Allure or Extent Report Integration
+ - Cucumber hooks 
+ - Complex nested JSON payload handling using POJOs
+ - Pagination, chaining, and validation enhancements
 
 ---
 
 🤝 Author
-Gaurang Gajjar
-Email - gauranggajjar26@gmail.com
+ - Gaurang Gajjar
+ - Email: gauranggajjar26@gmail.com
 
 ---
 
