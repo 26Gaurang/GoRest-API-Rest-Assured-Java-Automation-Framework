@@ -5,8 +5,7 @@ This project demonstrates a clean and scalable API automation framework using **
 ---
 
 📌 Technologies Used
-Java 17+
-
+ - Java 17+
  - Rest Assured
  - Cucumber BDD
  - Maven
