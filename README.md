@@ -7,17 +7,12 @@ This project demonstrates a clean and scalable API automation framework using **
 📌 Technologies Used
 Java 17+
 
-Rest Assured
-
-Cucumber BDD
-
-Maven
-
-JSONPath
-
-JUnit/TestNG
-
-Git & GitHub
+ - Rest Assured
+ - Cucumber BDD
+ - Maven
+ - JSONPath
+ - JUnit/TestNG
+ - Git & GitHub
 
 ## ✅ Features
 
@@ -45,7 +40,7 @@ Git & GitHub
 
 Update `config.properties` in `src/test/resources` with your GoRest credentials:
 
-```properties
+properties
 base_url=https://gorest.co.in/public/v2
 token=your_bearer_token_here
 
@@ -54,17 +49,14 @@ token=your_bearer_token_here
 ## ▶️ How to Run
 
 Using Test Runner (IDE):
-
-Run TestRunner.java using JUnit or TestNG.
+- Run TestRunner.java using JUnit or TestNG.
 
 ---
 
 ## 📈 Future Enhancements
 Allure or Extent Report Integration
 
-Retry mechanism for flaky tests
-
-GitHub Actions for CI/CD
+Cucumber hooks 
 
 Complex nested JSON payload handling using POJOs
 
